@@ -1,0 +1,41 @@
+[
+  {
+    "Name": "Mp4",
+    "Type": "Video",
+    "Extensions": [
+      "Mp4"
+    ],
+    "FormatSignatures": [
+      {
+        "Offset": 0,
+        "Hex": "49-44-33"
+      }
+    ]
+  },
+  {
+    "Name": "3gpp",
+    "Type": "Video",
+    "Extensions": [
+      "3gp"
+    ],
+    "FormatSignatures": [
+      {
+        "Offset": 0,
+        "Hex": "00-00-00-14-66-74-79-70"
+      }
+    ]
+  },
+  {
+    "Name": "3gpp2",
+    "Type": "Video",
+    "Extensions": [
+      "3gp"
+    ],
+    "FormatSignatures": [
+      {
+        "Offset": 0,
+        "Hex": "00-00-00-20-66-74-79-70"
+      }
+    ]
+  }
+]

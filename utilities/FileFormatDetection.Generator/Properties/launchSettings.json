@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileFormatDetection.Generator": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Projects\\GitHub\\FileFormatDetection\\src\\FileFormatDetection.Signatures"
+    }
+  }
+}
